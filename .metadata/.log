@@ -51,3 +51,60 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY Activator 1 0 2021-07-09 10:01:41.606
 !MESSAGE Has main method computation for project 'teste2'
+
+!ENTRY org.eclipse.ui 2 2 2021-07-09 10:02:28.627
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-09 10:02:48.005
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY Activator 1 0 2021-07-09 10:02:48.200
+!MESSAGE Has main method computation for project 'teste2'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-09 10:02:48.454
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@58ffae93[org.springframework.tooling.boot.ls:1.26.0.202106150606(id=559)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-09 10:02:48.492
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-09 10:02:48.686
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY Activator 1 0 2021-07-09 10:02:56.771
+!MESSAGE Has main method computation for project 'teste2'
+
+!ENTRY Activator 1 0 2021-07-09 10:02:57.961
+!MESSAGE Has main method computation for project 'teste2'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-09 10:03:01.202
+!MESSAGE Boot LS startup time from start to initialized: 12695ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-09 10:03:01.720
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.iwHgidJSisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-09 10:03:01.724
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-09 10:03:01.726
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-09 10:03:01.726
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-09 10:03:01.727
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.iwHgidJS => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-09 10:03:01.731
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-09 10:03:01.735
+!MESSAGE classpath=52 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-09 10:03:01.736
+!MESSAGE buffering callback sts4.classpath.iwHgidJS teste2 false 52
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-09 10:03:01.737
+!MESSAGE executing callback sts4.classpath.iwHgidJS 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-09 10:03:02.531
+!MESSAGE executing callback sts4.classpath.iwHgidJS SUCCESS [done]
